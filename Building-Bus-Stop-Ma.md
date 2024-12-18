@@ -56,11 +56,6 @@ This repository will be my go-to place for adding more visualizations and data p
 
 ---
 
-## 🤝 **Let’s Connect**  
-
-I’d love to hear your feedback, ideas, or thoughts on this project!  
-- **LinkedIn**: [Avinash Bunga](www.linkedin.com/in/avinash-bunga-5532a3185)  
-
 Thank you for stopping by, and happy exploring! 😊  
 
 ---  
