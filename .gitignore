@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+.Trash/
+
+# Ignore unneeded file types
+*.mp3
+*.pdf
+*.png
+*.jpeg
+*.gif
+*.zip
